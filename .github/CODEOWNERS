@@ -1,0 +1,22 @@
+# Global
+* @maintainers
+
+# Android module
+/android/ @android-team
+/android/app/ @android-team
+/android/domain/ @android-team
+/android/data/ @android-team
+/android/worker/ @android-team
+/android/storage/ @android-team
+
+# Backend module
+/backend/ @backend-team
+
+# Web module
+/web/ @frontend-team
+
+# Shared contracts
+/shared/api-contracts/ @api-architects
+
+# Documentation
+/docs/ @maintainers
