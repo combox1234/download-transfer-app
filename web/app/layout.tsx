@@ -11,6 +11,9 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: 'AutoBackup Manager',
   description: 'AutoBackup Manager — automated file backup for Android devices',
+}
+
+export const viewport = {
   themeColor: '#6366F1',
 }
 
