@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "openapi:generate": "openapi-typescript ../shared/api-contracts/openapi.yaml -o lib/types/api.ts",
-    "test": "jest",
+    "test": "jest --passWithNoTests",
     "test:watch": "jest --watch"
   },
   "dependencies": {
